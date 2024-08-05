@@ -21,6 +21,9 @@ cd "C:\Users\user\Desktop\_____Go It\4 Computer Systems and Their Fundamentals\H
 python 1async_file_sorter.py "C:\Users\user\Desktop\911" "C:\Users\user\Desktop\Sorted"
 
 ## 2 To run this code
+
 pip install requests matplotlib
+
 cd "C:\Users\user\Desktop\_____Go It\4 Computer Systems and Their Fundamentals\Homework5"
+
 python 2word_frequency_analysis.py
